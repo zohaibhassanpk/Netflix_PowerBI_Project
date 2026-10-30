@@ -235,11 +235,20 @@ Netflix_PowerBI_Project/
 
 # Screenshots
 
-- `Screenshots/Task1_Data_Preparation.png`
-- `Screenshots/Task1_Data_Model.png`
-- `Screenshots/Task2_Content_Overview.png`
-- `Screenshots/Task3_Global_Content_Insights.png`
-- `Screenshots/Task4_Growth_Trend_Analysis.png`
+## Task 1 - Data Preparation
+![Task 1 Data Preparation](Screenshots/Task1_Data_Preparation.png)
+
+## Task 1 - Data Model
+![Task 1 Data Model](Screenshots/Task1_Data_Model.png)
+
+## Task 2 - Netflix Content Overview
+![Task 2 Content Overview](Screenshots/Task2_Content_Overview.png)
+
+## Task 3 - Global Content Insights
+![Task 3 Global Content Insights](Screenshots/Task3_Global_Content_Insights.png)
+
+## Task 4 - Content Growth & Trend Analysis
+![Task 4 Growth Trend Analysis](Screenshots/Task4_Growth_Trend_Analysis.png)
 
 ---
 
